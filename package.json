@@ -1,11 +1,11 @@
 {
-  "repository": {
-  },
+  "repository": {},
   "dependencies": {
     "gulp": "~3.8.11",
     "gulp-connect": "~2.2.0"
   },
   "devDependencies": {
-    "mocha": "*"
+    "mocha": "*",
+    "gulp-mocha": "~2.0.0"
   }
 }
