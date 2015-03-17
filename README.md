@@ -1,9 +1,10 @@
 # WebServer running with Gulp
 
-Just a simple web server running with gulp and directory structure setup
+Just a simple web server running with node, gulp and directory structure setup
 
 Install Dependencies: ``` npm install ```
-Initialize package.json ``` npm init ```
-Run web server with ``` gulp server ```
-Run tests with ``` gulp tests ```
+Initialize package.json: ``` npm init ```
+Install Dependencies: ``` npm install ```
+Run web server: ``` gulp server ```
+Run tests: ``` gulp tests ```
 
