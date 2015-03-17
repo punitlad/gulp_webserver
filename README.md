@@ -1,4 +1,4 @@
-# WebServer running with Gulp
+# WebServer (running using Gulp)
 
 Just a simple web server running with node, gulp and directory structure setup
 
