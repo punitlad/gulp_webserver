@@ -8,9 +8,6 @@ Install Dependencies:
 Initialize package.json: 
 ``` npm init ```
 
-Install Dependencies: 
-``` npm install ```
-
 Run web server: 
 ``` gulp server ```
 
