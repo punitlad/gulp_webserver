@@ -2,13 +2,23 @@
 
 Just a simple web server running with gulp and directory structure setup
 
-Requires gulp and gulp-connect to be installed beforehand
+Install Dependencies with
 ```
-npm install gulp
-npm install gulp-connect
+npm install
 ```
 
-Run with
-```js 
-gulp 
+Initial package.json
 ```
+npm init
+```
+
+Run web server with
+```js 
+gulp server 
+```
+
+Run tests with
+```
+gulp tests
+```
+
